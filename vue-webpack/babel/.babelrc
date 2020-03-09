@@ -1,0 +1,8 @@
+{
+    "presets": [    // 预设
+        "es2015"
+    ],
+    "plugins": [    // 插件
+        "transform-object-rest-spread"
+    ]
+}
